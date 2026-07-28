@@ -48,9 +48,8 @@ Passionate Frontend Developer with **3+ years of experience** building scalable,
 ## 🌐 Connect With Me
 
 - 📧 Email: **subhashkrishna1973@gmail.com**
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 🌍 Portfolio: https://YOUR_PORTFOLIO_URL
-- 🐙 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+- 💼 LinkedIn: https://www.linkedin.com/in/subhash-krishnamoorthi-9b8a99273
+- 🌍 Portfolio: https://portfolio-beta-black-83.vercel.app
 
 ---
 

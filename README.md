@@ -31,6 +31,7 @@ Passionate Frontend Developer with **3+ years of experience** building scalable,
 ![Vite](https://skillicons.dev/icons?i=vite)
 
 ### Backend & Database
+![Python](https://skillicons.dev/icons?i=py)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 ![Prisma](https://skillicons.dev/icons?i=prisma)

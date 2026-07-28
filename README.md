@@ -45,39 +45,6 @@ Passionate Frontend Developer with **3+ years of experience** building scalable,
 
 ---
 
-## 💼 Featured Projects
-
-### 🏢 Multi-Tenant Admin Platform
-- Built with **Next.js, React, Tailwind CSS**
-- Email OTP Authentication
-- Google SSO Login
-- Multi-Tenant Architecture
-- Organization-based configuration
-- Theme, Currency, Timezone & Number Format Settings
-- Reusable Component Architecture
-
----
-
-### 🌿 Replenish
-- Built with **React & Tailwind CSS**
-- Role-Based Authentication
-- Product Management
-- Doctor Appointment Scheduler
-- Digital Consent Forms
-- Admin, Mentor & User Modules
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me
 
 - 📧 Email: **subhashkrishna1973@gmail.com**
